@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: [Vitor Escorcio]
-# Date: 2023-08-23
+# Date: 2024-08-23
 # Versao 1.0
 ##################
 # Description: Este script cria um backup do tipo folder to folder.
