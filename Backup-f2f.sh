@@ -26,7 +26,7 @@ BKP_NAME=bkp-`date +%d-%m-%Y_%H:%M`.tgz
 #Criação do backup
 # compactação direto na pasta onde sera feito o backup
 tar -czpf ${DIR_DEST}${BKP_NAME} ${DIR_BKP}
-# mensagem de resultado
+# resultado
 echo "Seu backup foi realizado com sucesso."
 echo "Diretório: ${DIR_BKP}"
 echo "Destino: ${DIR_DEST}${BKP_NAME}"
