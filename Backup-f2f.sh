@@ -14,8 +14,8 @@
 ###################
 
 #Variavveis
-DIR_BKP="/home/user/diretorio_a_ser_backupeado"
-DIR_DEST="/home/user/diretorio_de_destino"
+DIR_BKP="/home/user/diretorio_a_ser_backupeado/"
+DIR_DEST="/home/user/diretorio_de_destino/"
 #para escolher o nome do arquivo  de backup
 #BKP_NAME="nome_do_arquivo_bkp.tgz"
 #ou
