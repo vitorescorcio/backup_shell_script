@@ -13,6 +13,7 @@
 # FTP_HOST é o endereço do servidor de FTP e, FTP_USER e FTP_PASS 
 # são respectivamente o usuario e a senha do servidor de FTP.
 
+
 DIR_BKP="/diretorio/a/ser/compactado/"
 BKP_NAME="nome-do-arquivo.tgz"
 FTP_HOST="ftp.servidor.com.br"
